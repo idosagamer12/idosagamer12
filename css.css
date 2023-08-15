@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://i.ytimg.com/vi/mphu1ELSzYE/maxresdefault.jpg");
+
+    background-color: #fff;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+
+    text-align: center;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    text-align: center;
+    font-size: 5rem;
+}
+
+.baidu{
+    width: 400px;
+    height: 700px;
+}
+
+.aa{
+    font-size: 7rem;
+    color: aliceblue;
+    display: block;
+    text-align: center;
+}
+
+.g{
+
+    display: inline;
+    justify-content: end;
+    width: 1000px;
+    height: 800px;
+}
